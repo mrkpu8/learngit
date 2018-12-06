@@ -4,3 +4,4 @@ Git has mutable index called stage.
 Git tracks changes.
 My stupid boss prefers SVN.
 Add new info to commint.
+Test push to github.
