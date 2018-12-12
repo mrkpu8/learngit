@@ -5,5 +5,5 @@ Git tracks changes.
 My stupid boss prefers SVN.
 Add new info to commint.
 Test push to github.
-Createing a new branch is quick.
-
+Creating a new branch is quick.
+Creating a new branch is quick and simple.
